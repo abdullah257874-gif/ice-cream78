@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Scoop Ice Cream",
+  "description": "Online artisanal ice cream shop where customers can browse flavors, check affordable PKR prices, add scoops to their cart, and place instant orders via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
